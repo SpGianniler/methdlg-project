@@ -1,0 +1,26 @@
+[
+	{
+		"DaysPerWeek":"7",
+		"ShiftsPerDay":"3",
+		"HoursPerShift":"8",
+		"Depend":{
+			"mhxanikoi0":"3",
+			"grmParagogis0":"3",
+			"grammateia0":"2",
+			"epivlepon0":"2",
+			"mhxanikoi1":"2",
+			"grmParagogis1":"2",
+			"grammateia1":"1",
+			"epivlepon1":"1",
+			"mhxanikoi2":"1",
+			"grmParagogis2":"1",
+			"grammateia2":"0",
+			"epivlepon2":"0"
+		},
+		"Not_Working": {
+			"Nikos Gewrgiou epivlepon" : "1",
+			"Xrhstos Terzenidis mhxanikoi" : "0"
+		}
+	}
+]
+
